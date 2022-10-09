@@ -1,8 +1,12 @@
 .main {
-  margin: 25%;
+  margin-right: 0%;
+  margin-left: 25%;
   margin-top: 20px;
   border: 2px solid black;
-  width: 70%;
+  width: 50%;
+}
+.sourceLink {
+  margin-left: 25%;
 }
 .container {
   width: 100%;
