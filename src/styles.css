@@ -1,0 +1,52 @@
+.main {
+  margin: 25%;
+  margin-top: 20px;
+  border: 2px solid black;
+  width: 70%;
+}
+.container {
+  width: 100%;
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: 20px;
+  margin-left: 40px;
+}
+.search-city {
+  padding-top: 20px;
+  margin-left: 100px;
+}
+.enter-city {
+  width: 300px;
+}
+.search {
+  background-color: blue;
+  color: white;
+}
+.current {
+  background-color: rgb(240, 192, 72);
+  color: white;
+  width: 80px;
+}
+.city-weather {
+  margin-top: 30px;
+  margin-left: 110px;
+  font-size: 20px;
+  line-height: 0.5;
+}
+.temperature {
+  display: inline-flex;
+  width: 400px;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.precipitation-wind {
+  margin-top: -70px;
+  margin-left: 400px;
+  font-size: 20px;
+  line-height: 0.5;
+}
+.day {
+  margin: 40px;
+  display: inline-flex;
+}
